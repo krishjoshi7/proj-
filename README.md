@@ -33,6 +33,8 @@ Building a music recommender system using Natural Language Processing (NLP) tech
 8.  Hardware Resources:
     - Sufficient computing resources (CPU/GPU) for training and evaluating machine learning models, especially if working 
       with deep learning approaches.
+## Working Of project ##
+
 
 
 
