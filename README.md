@@ -24,13 +24,13 @@ Building a music recommender system using Natural Language Processing (NLP) tech
    - Understanding of different machine learning models and recommender system algorithms.
    - Knowledge of collaborative filtering, content-based filtering, and hybrid approaches.
 
-. Data Analysis and Visualization:
+6.  Data Analysis and Visualization:
    - Ability to analyze and visualize data to gain insights from music descriptions and user interactions.
 
- Text Vectorization Techniques:
+7.  Text Vectorization Techniques:
    - Knowledge of techniques like Bag of Words (BoW)
     
-Hardware Resources:
+8.  Hardware Resources:
     - Sufficient computing resources (CPU/GPU) for training and evaluating machine learning models, especially if working 
       with deep learning approaches.
 
